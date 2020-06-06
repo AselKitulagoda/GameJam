@@ -8,7 +8,7 @@
 
 ### How to Run
 * For ***MacOS***, clone the repository and then double click  ["Game Impossible"](Game Impossible.mac/Contents/MacOS/Game Impossible) inside the GameImpossible.mac folder.
-* For ** Windows***, clone the repositry and then double click ["Game Impossible"](Game Impossible.win/Game Impossible) inside the the GameImpossible.win folder.
+* For *** Windows***, clone the repositry and then double click ["Game Impossible"](Game Impossible.win/Game Impossible) inside the the GameImpossible.win folder.
 
 ### Gameplay
 
