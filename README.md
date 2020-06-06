@@ -7,8 +7,8 @@
 * We were inspired by the classic mobile game ["Bounce"](https://en.wikipedia.org/wiki/Bounce_(video_game_series)) so we decided to give it a more modern re-imagining as our Hackathon project.
 
 ### How to Run
-* For ***MacOS***, clone the repository and then double click ```Game Impossible``` inside the GameImpossible.mac folder.
-* For ***Windows***, clone the repositry and then double click ```Game Impossible``` inside the the GameImpossible.win folder.
+* For ***MacOS***, clone the repository and then double click ```Game Impossible``` inside ```GameImpossible.mac```.
+* For ***Windows***, clone the repositry and then double click ```Game Impossible``` inside ```GameImpossible.win```.
 
 ### Gameplay
 
